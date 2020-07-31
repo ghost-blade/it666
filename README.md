@@ -1,2 +1,1 @@
-# it666
-git study
+#git tutorial test
